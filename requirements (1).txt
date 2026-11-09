@@ -1,8 +1,0 @@
-gradio
-plotly
-pandas
-numpy
-requests
-scikit-learn
-statsmodels
-tabulate
